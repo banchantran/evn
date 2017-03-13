@@ -62,4 +62,10 @@
 		echo _CANNOT_FIND_CONFIGURATION;
 		exit();
 	}
+
+function pr($data) {
+	echo '<pre>';
+	print_r($data);
+	echo '</pre>';die;
+}
 ?>

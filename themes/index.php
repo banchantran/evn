@@ -15,7 +15,6 @@
 <script src="<?php echo SITE_PATH;?>themes/topmn/stuHover.js" type="text/javascript"></script>
 <!--Tabs-->
 </head>
-
 <body>
 <!--Top Blocks-->
 <center>
@@ -23,13 +22,13 @@
     	<div class="top" align="center">
             <div class="logo">
                 <div class="logoimg"><a href="<?php echo generate_url('home'); ?>"><img src="<?php echo SITE_PATH;?>themes/images/logo.jpg" /></a></div>
-                <div style="height:40px;">				
+                <div style="height:40px;">
                     <?php require_once ROOT_PATH.'template/menu/menu_top.php';?>
-                    <?php require_once ROOT_PATH.'template/search/index.php';?>                    
+                    <?php require_once ROOT_PATH.'template/search/index.php';?>
                 </div>
             </div>
         </div>
-        
+
         <!--  Menu top Start -->
         	<?php require_once ROOT_PATH.'template/menu/menu_mid.php';?>
         <div class="clear"></div>
@@ -42,14 +41,14 @@
 	<div id="centerct">
     	<!-- Left block -->
     	<div class="leftbls">
-            <?php require_once ROOT_PATH.'template/banner/index.php';?> 
+            <?php require_once ROOT_PATH.'template/banner/index.php';?>
             <?php require_once ROOT_PATH.'template/products_services/home.php';?>
         </div>
         <!-- Left block END -->
         <!-- Right block -->
     	<div class="rightbls">
             <?php require_once ROOT_PATH.'template/news/right.php';?>
-        	<?php //require_once ROOT_PATH.'template/other/thongtinbotro.php';?>
+        	<?php require_once ROOT_PATH.'template/other/thongtinbotro.php';?>
         </div>
         <!-- Right block END -->
         <div class="clear"></div>
@@ -65,7 +64,7 @@
           <div class="ft2"><a href=""><?php echo _BOOK_MARK ?></a></div>
             <div class="clear"></div>
         </div>
-        	<?php require_once ROOT_PATH.'template/counter/index.php';?>        
+        	<?php require_once ROOT_PATH.'template/counter/index.php';?>
     </div>
     <div class="clear"></div>
 </div>
