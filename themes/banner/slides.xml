@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters copyright="socusoftFSMTheme">
+    <preferences>
+        <global>
+            <basic_property movieWidth="728" movieHeight="250" html_title="Title" loadStyle="Bar" startAutoPlay="true" continuum="true" backgroundColor="0xffffff" hideAdobeMenu="false" photoDynamicShow="true" enableURL="true" transitionArray=""/>
+            <title_property photoTitleColor="0x000080" backgroundColor="0xffffff" alpha="30" autoHide="false"/>
+            <music_property path="" stream="true" loop="true"/>
+            <photo_property topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0"/>
+            <properties enable="true" backgroundColor="0xffffff" backgroundAlpha="30" cssText="a:link{text-decoration: underline;} a:hover{color:#ff0000; text-decoration: none;} a:active{color:#0000ff;text-decoration: none;} .blue {color:#0000ff; font-size:10px; font-style: normal; text-decoration: underline;} .body{color:#ff5500;font-size:10px;}" align="top"/>
+        </global>
+        <thumbnail>
+            <basic_property backgroundColor="0x787878" backgroundAlpha="30" buttonColor="0xfffbf0" numberColor="00ffffff" currentNumberColor="0xfffbf0"/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide d_URL="b1.jpg" transition="10" URLTarget="0" phototime="2" url="" width="728" height="200"/>
+        <slide d_URL="b2.jpg" transition="12" URLTarget="0" phototime="2" url="" width="728" height="200"/>
+        <slide d_URL="b3.jpg" transition="64" URLTarget="0" phototime="2" url="" width="728" height="200"/>
+        <slide d_URL="b4.jpg" transition="56" URLTarget="0" phototime="2" url="" width="728" height="200"/>
+        <slide d_URL="b5.jpg" transition="26" URLTarget="0" phototime="2" url="" width="728" height="200"/>
+        <slide d_URL="b6.jpg" transition="10" URLTarget="0" phototime="2" url="" width="728" height="200"/>
+        <slide d_URL="b7.jpg" transition="12" URLTarget="0" phototime="2" url="" width="728" height="200"/>
+        <slide d_URL="b8.jpg" transition="64" URLTarget="0" phototime="2" url="" width="728" height="200"/>
+        <slide d_URL="b9.jpg" transition="56" URLTarget="0" phototime="2" url="" width="728" height="200"/>
+        <slide d_URL="b10.jpg" transition="10" URLTarget="0" phototime="2" url="" width="728" height="200"/>
+    </album>
+</flash_parameters>
