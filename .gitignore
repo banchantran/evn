@@ -1,3 +1,7 @@
 *.pdf
 *.doc
 */upload/*
+index.php
+*/index.php
+*.txt
+*.xml
