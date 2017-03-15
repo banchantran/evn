@@ -411,5 +411,8 @@
 	DEFINE('_BUY', "Mua");
 	DEFINE('_RELATED_PRODUCTS', "Sản phẩm liên quan");
 	DEFINE('_RELATED_NEWS', "Tin liên quan");
-	
+	DEFINE('_DETERMINATIVE', 'Kỳ hạn');
+	DEFINE('_PER_MONTH', '%/Năm');
+	DEFINE('_CASH', 'Tiền mặt');
+	DEFINE('_TRANSFER', 'Chuyển khoản');
 ?>

@@ -376,5 +376,9 @@
 	DEFINE('_PARENT_CATEGORY', "Parent category");
 	DEFINE('_RELATED_PRODUCTS', "Related Products");
 	DEFINE('_RELATED_NEWS', "Related News");
-	
+	DEFINE('_DETERMINATIVE', 'Determinative');
+	DEFINE('_PER_MONTH', '%/Year');
+	DEFINE('_CASH', 'Cash');
+	DEFINE('_TRANSFER', 'Transfer');
+	DEFINE('_TYPE', 'Type');
 ?> 

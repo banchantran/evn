@@ -233,3 +233,17 @@ box-item{overflow:hidden;}
 .hd-bdr {width:3px;background:transparent url(http://vnexpress.net/User/ck/Images/Bg-Right.gif) repeat-y top;}
 .hd-co {width:56px;}
 .hd-tc {width:55px;}
+
+/*------------------------------*/
+.determinative-table {
+    border-collapse: collapse;
+}
+.determinative-table tbody td {
+    border: 1px solid #ccc;
+}
+.determinative-table tbody td:first-of-type {
+    border-left: none;
+}
+.determinative-table tbody td:last-of-type {
+    border-right: none;
+}
